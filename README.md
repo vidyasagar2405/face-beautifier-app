@@ -1,4 +1,4 @@
-# OpenCV-Face-Beautifier-App-Virtual-Makeup
+# Face-Beautifier-App-Virtual-Makeup using OpenCV
 
 This project is an interactive **virtual makeup editor** built using Python and OpenCV.  
 Users can load any image from their device, select a Region of Interest (ROI), create HSV-based masks, apply brightness/darkening effects, preview changes in real time, and save the final edited output — all directly inside OpenCV windows.
@@ -6,7 +6,7 @@ Users can load any image from their device, select a Region of Interest (ROI), c
 ---
 
 ## 🎥 Demo Video
-[demo video](https://youtu.be/D-H5wxNgvyc)
+## [Video](https://youtu.be/D-H5wxNgvyc)
 
 ---
 
